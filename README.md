@@ -4,6 +4,6 @@ Implemented a  REST API in Python which will take a given pdf file ,angle of rot
 The API rotates the specified page in the given angle and replaces that page back into pdf.
 
  API inputs:
-      1.file
+      1.Github link
       2.angle of rotation (Multiple of 90)
       3.Page number
